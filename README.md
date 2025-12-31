@@ -1,4 +1,4 @@
-[![Md Mujahidul Islam Banner](https://res.cloudinary.com/dvd0x20di/image/upload/v1754163233/Github_Banner_Mahfuz_Zayn_ro1jqz.jpg)](https://roboooooooo.github.io/)
+[![Md Mujahidul Islam Banner](https://github.com/RoBOooooooo/RoBOooooooo/blob/main/LinkedIn%20Banner%20-%20Md%20Mujahidul%20Islam.jpg?raw=true)](https://roboooooooo.github.io/)
 
 <h1 align="left">Hi there, I'm Md Mujahidul Islam 👋</h1>
 
